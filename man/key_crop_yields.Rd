@@ -21,13 +21,13 @@ More details about the data
 The data was collected from ... over the course of ...
 
 \describe{
-\item{price}{price, in US dollar}
-\item{carat}{weight of the diamond, in carats}
+\item{Entity}{Country}
+\item{toones_per_hectare}{yield}
 ...
 }
 }
 
 \examples{
-print(key_crop_yields_
+print(key_crop_yields)
 }
 \keyword{datasets}

@@ -7,16 +7,17 @@
 #'
 #'
 #' \describe{
-#' \item{price}{price, in US dollar}
-#' \item{carat}{weight of the diamond, in carats}
+#' \item{Entity}{Country}
+#' \item{toones_per_hectare}{yield}
 #' ...
 #' }
 #' @source Where you get the data
-#' @export
+#'
 #'
 #' @examples
-#' print(key_crop_yields_)
+#' print(key_crop_yields)
 "key_crop_yields"
+
 mean <- function (x){
   sum(x) / length(x)
 }

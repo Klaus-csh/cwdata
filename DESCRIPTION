@@ -1,5 +1,5 @@
 Package: cwdata
-Title: Datasets for the Communicating with Data Course.
+Title: Datasets for the Communicating with Data Course
 Version: 0.1.0
 Authors@R: 
     person(given = "Shaohu",

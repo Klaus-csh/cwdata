@@ -10,14 +10,7 @@ The goal of cwdata is to …
 
 ## Installation
 
-You can install the released version of cwdata from
-[CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("cwdata")
-```
-
-And the development version from [GitHub](https://github.com/) with:
+The development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
@@ -26,7 +19,8 @@ remote::install_github("Klaus-csh/cwdata")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This package provides many great datasets used in Communicating with the
+data.
 
 ``` r
 library(cwdata)
