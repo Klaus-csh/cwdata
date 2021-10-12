@@ -1,0 +1,14 @@
+Package: cwdata
+Title: Datasets for the Communicating with Data Course.
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Shaohu",
+           family = "Chen",
+           role = c("aut", "cre"),
+           email = "sche0232@student.monash.edu")
+Description: Lots and lots of dataset (but not really one).
+License: GPL (>= 3)
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
