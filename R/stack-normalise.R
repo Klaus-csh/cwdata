@@ -18,5 +18,6 @@ stack_normalise <- function(x){
   x/sum(x)
 }
 
+#' @export
 #' @rdname stack_normalise
 stack_normalize <- stack_normalise
