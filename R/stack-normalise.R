@@ -15,7 +15,7 @@
 #' stack_normalize(x)
 
 stack_normalise <- function(x){
-  x/sum(x)
+  x/sum(x, na.rm = T)
 }
 
 #' @export
