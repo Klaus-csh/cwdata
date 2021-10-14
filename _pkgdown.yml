@@ -1,0 +1,18 @@
+
+development:
+  mode: auto
+
+authors:
+  Shaohu Chen:
+    herf: https://github.com/Klaus-csh/cwdata/
+
+
+navbar:
+  type: default
+  left:
+  - text: Crop yields
+    herf: articles/key_crop_yields.html
+  - text: Reference
+    herf: reference/index.html
+  - text: Changelog
+    herf: news/index.html
