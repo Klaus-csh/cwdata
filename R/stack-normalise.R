@@ -1,8 +1,8 @@
 #' Convert number into proportions
 #'
-#' @param x
+#' @param x a set of value
 #'
-#' @return
+#' @return the proportion for each x
 #' @export
 #'
 #' @examples

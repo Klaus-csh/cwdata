@@ -10,10 +10,10 @@ stack_normalise(x)
 stack_normalize(x)
 }
 \arguments{
-\item{x}{}
+\item{x}{a set of value}
 }
 \value{
-
+the proportion for each x
 }
 \description{
 Convert number into proportions
