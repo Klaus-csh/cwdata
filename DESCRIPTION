@@ -1,6 +1,6 @@
 Package: cwdata
 Title: Datasets for the Communicating with Data Course
-Version: 0.1.0
+Version: 0.1.0.9000
 Authors@R: 
     person(given = "Shaohu",
            family = "Chen",
